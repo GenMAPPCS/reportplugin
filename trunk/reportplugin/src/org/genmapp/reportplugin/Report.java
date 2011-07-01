@@ -1,3 +1,4 @@
+package org.genmapp.reportplugin;
 import java.util.HashMap;
 import java.util.Map;
 
