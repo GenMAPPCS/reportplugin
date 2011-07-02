@@ -30,7 +30,7 @@ public class ReportPlugin extends CytoscapePlugin {
 
 		// TODO: add toggle for assisted mode and assist window
 		// TODO: add toggle for record mode and script window
-
+		
 	}
 
 	/**

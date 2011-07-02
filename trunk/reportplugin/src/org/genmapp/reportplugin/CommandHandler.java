@@ -15,11 +15,11 @@ import cytoscape.layout.Tunable;
  */
 class CommandHandler extends AbstractCommandHandler {
 
-	protected static final String REPORTPLUGIN = "reportplugin";
-	protected static final String REPORT = "report";
-	protected static final String ASSIST = "assist";
-	protected static final String SCRIPT = "script";
-	protected static final String ARG_MSG = "msg";
+	private static final String REPORTPLUGIN = "reportplugin";
+	private static final String REPORT = "report";
+	private static final String ASSIST = "assist";
+	private static final String SCRIPT = "script";
+	private static final String ARG_MSG = "msg";
 
 
 	public CommandHandler() {
