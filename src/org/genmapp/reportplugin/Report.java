@@ -24,9 +24,7 @@ public class Report {
 	protected static final String REPORT = "report";
 	protected static final String ASSIST = "assist";
 	protected static final String SCRIPT = "script";
-
 	protected static final String ARG_MSG = "msg";
-	protected static final String ARG_TYPE = "type";
 
 	/**
 	 * Messages will be sent to the Script Window when in Record Mode. The

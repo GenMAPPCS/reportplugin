@@ -19,13 +19,9 @@ class CommandHandler extends AbstractCommandHandler {
 	protected static final String REPORT = "report";
 	protected static final String ASSIST = "assist";
 	protected static final String SCRIPT = "script";
-
 	protected static final String ARG_MSG = "msg";
 
 
-	/**
-	 * 
-	 */
 	public CommandHandler() {
 		super(CyCommandManager.reserveNamespace(REPORTPLUGIN));
 
