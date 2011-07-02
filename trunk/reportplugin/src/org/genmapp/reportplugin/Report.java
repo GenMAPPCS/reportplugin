@@ -44,6 +44,8 @@ public class Report {
 	 * Microsoft Paperclip, e.g., for novice users, but without the annoying
 	 * paperclip.
 	 * 
+	 * Basic HTML code is supported per JEditorPane().
+	 * 
 	 * @param msg
 	 *            message to assist users
 	 */
@@ -56,6 +58,8 @@ public class Report {
 	 * are intended to be user-friendly reports on actions taken. The user can
 	 * manually edit and save the report at any time during a session for future
 	 * reference.
+	 * 
+	 * Basic HTML code is supported per JEditorPane().
 	 * 
 	 * @param msg
 	 *            message to report
